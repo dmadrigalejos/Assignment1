@@ -6,3 +6,4 @@ c:\users\admin\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj
 c:\users\admin\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
 c:\users\admin\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
 c:\users\admin\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
